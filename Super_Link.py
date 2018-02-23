@@ -53,11 +53,6 @@ try:
     elif number == 2:
         link = raw_input(cl("Enter the link + http or https >>: ","blue"))
         profile = webdriver.FirefoxProfile()
-        profile.set_preference("network.proxy_type",1)
-        profile.set_preference("network.proxy.ssl","159.65.164.216")
-        profile.set_preference("network.proxy.ssl_port",8118)
-        profile.set_preference("network.proxy.http","23.235.142.170")
-        profile.set_preference("network.proxy.http_port",1080)
         system = input(cl("""
                         [1]ios
                         [2]android
