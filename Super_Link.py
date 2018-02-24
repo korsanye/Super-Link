@@ -35,7 +35,7 @@ try:
         [1] get source codes
         [2] Open the link in your browser
         ""","blue"))
-    number = input(cl("Enter the numbet >>: ","blue"))
+    number = input(cl("Enter the number >>: ","blue"))
 #######################################################################################################################################################################
     if number == 1:
         link = raw_input(cl("Enter the link + http or https >>: ","blue"))
