@@ -4,32 +4,7 @@ try:
     from termcolor import colored as cl
     import time
     try:
-        print(cl("\n\t\tplease wait\n\n","red"))
-        time.sleep(1)
-        print(cl("===================================================","blue"))
-        time.sleep(0.5)
-        print(cl("===================================================","red"))
-        time.sleep(0.5)
-        print(cl("===================================================","blue"))
-        time.sleep(0.5)
-        print(cl(""" ____  _            _            ___   ___  _ ""","red"))
-        time.sleep(0.5)
-        print(cl("""| __ )| | __ _  ___| | __  _ __ / _ \ / _ \| |_ ""","blue"))
-        time.sleep(0.5)
-        print(cl("""|  _ \| |/ _` |/ __| |/ / | '__| | | | | | | __|""","red"))
-        time.sleep(0.5)
-        print(cl("""| |_) | | (_| | (__|   <  | |  | |_| | |_| | |_ ""","blue"))
-        time.sleep(0.5)
-        print(cl("""|____/|_|\__,_|\___|_|\_\ |_|   \___/ \___/ \__|""","red"))
-        time.sleep(0.5)
-        print(cl("===================================================","blue"))
-        time.sleep(0.5)
-        print(cl("===================================================","red"))
-        time.sleep(0.5)
-        print(cl("===================================================","blue"))
-        time.sleep(0.5)
         print(cl("""
-            \t\tSuper Link\n
             [1] get source codes
             [2] Open the link in your browser
             ""","blue"))
@@ -92,4 +67,4 @@ try:
     except KeyboardInterrupt:
         print(cl("Bye","red"))
 except ImportError:
-        print("install selenium v2.53.6 , termcolor \n\tpip install selenium==2.53.6\n\tpip install termcolor")
+        print("install selenium , termcolor \n\tpip install selenium\n\tpip install termcolor")
