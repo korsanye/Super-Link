@@ -1,7 +1,7 @@
 # Super Link
 
 <br>
-<img src="https://c.top4top.net/p_785hzt041.png" />
+<img src="Screenshot/super-link_1.png" />
 <br>
 <br>
 <img src="https://b.top4top.net/p_785zvii51.png" />
