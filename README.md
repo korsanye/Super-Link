@@ -7,6 +7,14 @@
 <img src="https://b.top4top.net/p_785zvii51.png" />
 <br>
 
+<br>
+<pre>use python2</pre>
+<pre>git clone https://github.com/korsanye/Super-Link.git && cd Super-Link </pre>
+<pre>python -m pip install -r requirements.txt </pre>
+<pre>python Super_Link.py</pre>
+
+<br>
+
 <p>
   Download the latest version of geckodriver from <a href="https://github.com/mozilla/geckodriver/releases">here</a>. Add the geckodriver.exe file to the Supr-Link directory.
 </p>
