@@ -8,7 +8,7 @@
 <br>
 
 <p>
-  Download the latest version of geckodriver from <a href="https://github.com/mozilla/geckodriver/releases" target="_blank">here</a>. Add the geckodriver.exe file to the Supr-Link directory.
+  Download the latest version of geckodriver from <a target="_blank" rel="noopener noreferrer" href="https://github.com/mozilla/geckodriver/releases">here</a>. Add the geckodriver.exe file to the Supr-Link directory.
 </p>
 
 YouTube : https://www.youtube.com/channel/UCQKMd8MZdk6dn7qjaIj47Hg/videos?view_as=subscriber
